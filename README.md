@@ -1,6 +1,6 @@
 # My name is Koen,
 
-# [Click To see my site!](https://https://koplayz.github.io/site/)
+# [Click To see my site!](https://koplayz.github.io/site/)
 
 ## About Me
 > I do not code much
