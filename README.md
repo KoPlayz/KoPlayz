@@ -9,7 +9,7 @@
 
 >I code in html and batch.
 ## What I'm Working on
-> System Tools (VBS) {Favourite Project}
+> System Tools (Batch) {Favourite Project}
 
 > KoPlayz's Fake Virus Kit (VBS)
 
