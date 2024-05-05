@@ -1,5 +1,8 @@
-## What I'm Working on
-> YTD (Youtube-Downloader)
+![](koplayz.png)
 
-> Chek! (Chek! checklist)
+# Hi, im KoPlayz.
 
+## Projects I am working on:
+
+* YTD | Youtube Downloader
+* karchinstall | Archlinux Installer
